@@ -23,6 +23,7 @@
   "dependencies": {
     "ejs": "^2.6.1",
     "express": "^4.17.0",
+    "google-spreadsheet": "^2.0.7",
     "googleapis": "^39.2.0",
     "gs": "0.0.2",
     "hbs": "^4.0.4",

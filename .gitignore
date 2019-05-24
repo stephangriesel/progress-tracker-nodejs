@@ -86,3 +86,9 @@ typings/
 
 # DynamoDB Local files
 .dynamodb/
+
+
+# sheet doc & linked files
+
+/sheet
+client_secret.json
