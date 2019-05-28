@@ -33,7 +33,7 @@ app.get('/test', (req, res, next) => {
 app.get("/google-spreadsheet", function(req, res){
 
   // Identifying which document we'll be accessing/reading from
-  var doc = new GoogleSpreadsheet('3c6050c8d4ba79fb2f31d69fd9de6954461e12e7');
+  var doc = new GoogleSpreadsheet('1J2gU7xaa9fa9_jghNmolDxTY69XR9FxAxUauFMYkdeQ');
 
   // Authentication
   doc.useServiceAccountAuth(creds, function (err) {
